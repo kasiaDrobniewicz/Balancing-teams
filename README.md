@@ -1,5 +1,5 @@
 **Balancing teams**
-Description
+Description:
 The primary goal is to develop a solution that divides a group of people into teams of equal size 
 while attempting to balance the teams in terms of the "rate" of each individual. The rate can 
 represent various attributes, such as skill level, experience, workload capacity, or any other relevant 
